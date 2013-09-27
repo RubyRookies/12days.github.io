@@ -1,4 +1,4 @@
 12days
 ======
 
-12 days of code
+12 days of coding demo repo
